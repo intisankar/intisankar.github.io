@@ -1,2 +1,0 @@
-# intisankar.github.io
-portpolio
