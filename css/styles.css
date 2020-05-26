@@ -61,3 +61,12 @@ float:right;
 height:25%;
 width:25%;
 }
+
+@media only screen and (max-width: 750px){
+.iconDetails {
+ margin-left:2%;
+float:right; 
+height:40%;
+width:40%;
+}
+}
